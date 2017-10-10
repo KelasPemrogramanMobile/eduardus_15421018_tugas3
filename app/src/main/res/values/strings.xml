@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Daftar anggota</string>
+    <string name="app_name2">untuk hidup yang lebih baik</string>
+    <string-array name="arAgama">
+        <item>Pilih Agama</item>
+        <item>katholik</item>
+        <item>Islam</item>
+        <item>Kristen</item>
+        <item>Hindu</item>
+        <item>Budha</item>
+    </string-array>
+</resources>
